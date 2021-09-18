@@ -2,11 +2,11 @@
 
 A simple program to print Hello World to the user's screen. 
 
-This program was created as a placeholder program while I experimented with using git, publishing to github, and keeping that program up-to-date by commiting changes to the repository.
+This program was created as a placeholder program while I experimented with using git, publishing to github, and keeping that program up-to-date by commiting changes to the repository. Also first exposure to the markdown language.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/PsnxOFrqLHw)
 
 # Development Environment
 
